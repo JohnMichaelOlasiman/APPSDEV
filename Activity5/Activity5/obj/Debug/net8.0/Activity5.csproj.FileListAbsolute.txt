@@ -1,0 +1,14 @@
+Z:\II128\OLASIMAN, John Michael\3_Semifinal\Activity5\Activity5\bin\Debug\net8.0\Activity5.exe
+Z:\II128\OLASIMAN, John Michael\3_Semifinal\Activity5\Activity5\bin\Debug\net8.0\Activity5.deps.json
+Z:\II128\OLASIMAN, John Michael\3_Semifinal\Activity5\Activity5\bin\Debug\net8.0\Activity5.runtimeconfig.json
+Z:\II128\OLASIMAN, John Michael\3_Semifinal\Activity5\Activity5\bin\Debug\net8.0\Activity5.dll
+Z:\II128\OLASIMAN, John Michael\3_Semifinal\Activity5\Activity5\bin\Debug\net8.0\Activity5.pdb
+Z:\II128\OLASIMAN, John Michael\3_Semifinal\Activity5\Activity5\obj\Debug\net8.0\Activity5.GeneratedMSBuildEditorConfig.editorconfig
+Z:\II128\OLASIMAN, John Michael\3_Semifinal\Activity5\Activity5\obj\Debug\net8.0\Activity5.AssemblyInfoInputs.cache
+Z:\II128\OLASIMAN, John Michael\3_Semifinal\Activity5\Activity5\obj\Debug\net8.0\Activity5.AssemblyInfo.cs
+Z:\II128\OLASIMAN, John Michael\3_Semifinal\Activity5\Activity5\obj\Debug\net8.0\Activity5.csproj.CoreCompileInputs.cache
+Z:\II128\OLASIMAN, John Michael\3_Semifinal\Activity5\Activity5\obj\Debug\net8.0\Activity5.dll
+Z:\II128\OLASIMAN, John Michael\3_Semifinal\Activity5\Activity5\obj\Debug\net8.0\refint\Activity5.dll
+Z:\II128\OLASIMAN, John Michael\3_Semifinal\Activity5\Activity5\obj\Debug\net8.0\Activity5.pdb
+Z:\II128\OLASIMAN, John Michael\3_Semifinal\Activity5\Activity5\obj\Debug\net8.0\Activity5.genruntimeconfig.cache
+Z:\II128\OLASIMAN, John Michael\3_Semifinal\Activity5\Activity5\obj\Debug\net8.0\ref\Activity5.dll
